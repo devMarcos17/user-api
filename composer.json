@@ -1,0 +1,18 @@
+{
+    "name": "marcos/aula-banco-de-dados",
+    "autoload": {
+        "psr-4": {
+            "Marcos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcos",
+            "email": "diasmarcos846@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^7.1",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
